@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.flowkD</node-path>
+    <address>0</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.flowkI</node-path>
+    <address>8</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.flowkN</node-path>
+    <address>16</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.flowkP</node-path>
+    <address>24</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.mode</node-path>
+    <address>32</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.UstProc</node-path>
+    <address>36</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.UstQ</node-path>
+    <address>44</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.FlowIL1</node-path>
+    <address>52</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.FlowIL2</node-path>
+    <address>60</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.FlowZrp</node-path>
+    <address>68</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.SerZrp</node-path>
+    <address>76</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.WaterZrp</node-path>
+    <address>84</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.flowkD_in</node-path>
+    <address>92</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.flowkI_in</node-path>
+    <address>100</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.flowkN_in</node-path>
+    <address>108</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.flowkP_in</node-path>
+    <address>116</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.mode_in</node-path>
+    <address>124</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.UstProc_in</node-path>
+    <address>128</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.UstQ_in</node-path>
+    <address>136</address>
+  </item>
+</root>

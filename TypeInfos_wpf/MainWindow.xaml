@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TypeInfos_wpf"
         mc:Ignorable="d"
-        Title="MainWindow" Height="475.5" Width="581">
+        Title="WPF Converter" Height="475.5" Width="581">
     <Grid Height="441" VerticalAlignment="Top" Margin="0,0,2,0">
         <Button x:Name="btnOpeninput" Content="Input" HorizontalAlignment="Left" Margin="470,16,0,0" VerticalAlignment="Top" Width="74" Click="btnOpeninput_Click"/>
         <Button x:Name="TypeInfos_btn" Content="TypeInfos" HorizontalAlignment="Left" Margin="470,40,0,0" VerticalAlignment="Top" Width="74" Click="TypeInfos_Click"/>

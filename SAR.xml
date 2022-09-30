@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.Avar</node-path>
+    <address>0</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.Dy</node-path>
+    <address>8</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.Ec</node-path>
+    <address>16</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.Kvo</node-path>
+    <address>24</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.Kvz</node-path>
+    <address>32</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.Proc</node-path>
+    <address>40</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.BrakingAreaClose</node-path>
+    <address>48</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.BrakingAreaOpen</node-path>
+    <address>56</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.MaxProcLimit</node-path>
+    <address>64</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.MinProcLimit</node-path>
+    <address>72</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.Mode</node-path>
+    <address>80</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.UstProc</node-path>
+    <address>84</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.UstQ</node-path>
+    <address>92</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.UstSpeedMan</node-path>
+    <address>100</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.flowkD</node-path>
+    <address>108</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.flowkI</node-path>
+    <address>116</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.flowkN</node-path>
+    <address>124</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.flowkP</node-path>
+    <address>132</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.prockD</node-path>
+    <address>140</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.prockI</node-path>
+    <address>148</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.prockN</node-path>
+    <address>156</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.prockP</node-path>
+    <address>164</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.sarMinSpeed</node-path>
+    <address>172</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.sarP1</node-path>
+    <address>180</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.sarP2</node-path>
+    <address>188</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.sarP3</node-path>
+    <address>196</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.sarP4</node-path>
+    <address>204</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.Mvvo</node-path>
+    <address>212</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.Mvvz</node-path>
+    <address>213</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.BrakingAreaClose_in</node-path>
+    <address>214</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.BrakingAreaOpen_in</node-path>
+    <address>222</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.MaxProcLimit_in</node-path>
+    <address>230</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.MinProcLimit_in</node-path>
+    <address>238</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.Mode_in</node-path>
+    <address>246</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.UstProc_in</node-path>
+    <address>250</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.UstQ_in</node-path>
+    <address>258</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.UstSpeedMan_in</node-path>
+    <address>266</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.flowkD_in</node-path>
+    <address>274</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.flowkI_in</node-path>
+    <address>282</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.flowkN_in</node-path>
+    <address>290</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.flowkP_in</node-path>
+    <address>298</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.prockD_in</node-path>
+    <address>306</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.prockI_in</node-path>
+    <address>314</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.prockN_in</node-path>
+    <address>322</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.prockP_in</node-path>
+    <address>330</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.sarMinSpeed_in</node-path>
+    <address>338</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.sarP1_in</node-path>
+    <address>346</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.sarP2_in</node-path>
+    <address>354</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.sarP3_in</node-path>
+    <address>362</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.IL2.SAR.SAR.sarP4_in</node-path>
+    <address>370</address>
+  </item>
+</root>

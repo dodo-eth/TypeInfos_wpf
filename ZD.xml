@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.Cmd</node-path>
+    <address>0</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.Time01</node-path>
+    <address>4</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.Time02</node-path>
+    <address>12</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.Time03</node-path>
+    <address>20</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.Time04</node-path>
+    <address>28</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.Time05</node-path>
+    <address>36</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.Time06</node-path>
+    <address>44</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.Time07</node-path>
+    <address>52</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.Time08</node-path>
+    <address>60</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.Time09</node-path>
+    <address>68</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.Time10</node-path>
+    <address>76</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.Time11</node-path>
+    <address>84</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.Time12</node-path>
+    <address>92</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.Time13</node-path>
+    <address>100</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.avar</node-path>
+    <address>108</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.co</node-path>
+    <address>109</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.cz</node-path>
+    <address>110</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.ec</node-path>
+    <address>111</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.imit</node-path>
+    <address>112</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.kvo</node-path>
+    <address>113</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.kvz</node-path>
+    <address>114</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.man</node-path>
+    <address>115</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.mpo</node-path>
+    <address>116</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.mpz</node-path>
+    <address>117</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.muft</node-path>
+    <address>118</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.mvvo</node-path>
+    <address>119</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.mvvz</node-path>
+    <address>120</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.neispr</node-path>
+    <address>121</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.state</node-path>
+    <address>122</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.Cmd_in</node-path>
+    <address>123</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.Time01_in</node-path>
+    <address>127</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.Time02_in</node-path>
+    <address>135</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.Time03_in</node-path>
+    <address>143</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.Time04_in</node-path>
+    <address>151</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.Time05_in</node-path>
+    <address>159</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.Time06_in</node-path>
+    <address>167</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.Time07_in</node-path>
+    <address>175</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.Time08_in</node-path>
+    <address>183</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.Time09_in</node-path>
+    <address>191</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.Time10_in</node-path>
+    <address>199</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.Time11_in</node-path>
+    <address>207</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.Time12_in</node-path>
+    <address>215</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.Output.ZD.Time13_in</node-path>
+    <address>223</address>
+  </item>
+</root>
