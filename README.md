@@ -3,7 +3,7 @@ README по запуску проекта:
 
 1. Открыть Visual Studio.
 
-2. Выполнить клонирование (инструкция в gif ниже) по ссылке https://github.com/dodo-eth/TypeInfos_wpf 
+2. Выполнить клонирование (инструкция в gif ниже) по ссылке https://github.com/dodo-eth/TypeInfos_wpf or https://gitlab.com/off_fov/TypeInfos_wpf
 <img src="./1.gif" alt="My Project GIF" >
 
 3. Выполнить запуск по инструкции в gif.
